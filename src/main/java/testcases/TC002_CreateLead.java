@@ -16,7 +16,7 @@ public class TC002_CreateLead extends ProjectMethods{
 		testNodes="Leads";
 		category="Smoke";
 		authors="Jeyamurugan";
-		browserName="firefox";
+		browserName="chrome";
 		dataSheetName="TC003";
 	}
 		
